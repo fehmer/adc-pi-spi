@@ -1,0 +1,24 @@
+{
+  "name": "adc-pi-spi",
+  "version": "0.0.1",
+  "description": "Using an ADC (MCP3008) with a Pi over spi",
+  "main": "./lib/index.coffee",
+  "dependencies": {
+    "coffee-script": "",
+    "node-spi": "git://github.com/rosterloh/node-spi.git#master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fehmer/adc-pi-spi.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "spi",
+    "spi-dev",
+    "adc",
+    "mcp3008"
+  ],
+  "author": "Christian Fehmer",
+  "license": "BSD"
+}
